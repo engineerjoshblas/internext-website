@@ -11,17 +11,17 @@ class About extends Component {
                         <div className="col-lg-1"/>
                         <div className="col-lg-6">
                             <div className="repair-about-content">
-                                <span className="sub-title">About Us</span>
-                                <h2>We have 35 years of experience in repair services</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <span className="sub-title">About SuperApps</span>
+                                <h2>iPhone and Android Apps using React Native</h2>
+                                <p>Using SuperApps custom framework we are able to fully accommodate our customers by providing a fresh and customized application.</p>
 
                                 <ul>
-                                    <li><span><Icon.Check /> Experienced Professionals</span></li>
-                                    <li><span><Icon.Check /> Expert Technical Skills</span></li>
-                                    <li><span><Icon.Check /> Excellent Reputation</span></li>
-                                    <li><span><Icon.Check /> Friendly Service</span></li>
-                                    <li><span><Icon.Check /> Trustworthy See Reviews</span></li>
-                                    <li><span><Icon.Check /> Affordable Diagnosis</span></li>
+                                    <li><span><Icon.Check /> Responsive Interface</span></li>
+                                    <li><span><Icon.Check /> Customizable Logic</span></li>
+                                    <li><span><Icon.Check /> User Experience Design</span></li>
+                                    <li><span><Icon.Check /> Clean Scalable Code</span></li>
+                                    <li><span><Icon.Check /> Readable Documentation</span></li>
+                                    <li><span><Icon.Check /> Software Support</span></li>
                                 </ul>
                             </div>
                         </div>

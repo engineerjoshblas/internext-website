@@ -11,8 +11,8 @@ const MainBanner = () => {
 						<div className="row h-100 justify-content-center align-items-center">
 							<div className="col-lg-5">
 								<div className="hero-content">
-									<h1>Secure IT Solutions for a more secure environment</h1>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida</p>
+									<h1>SuperApps. Data-driven, scalable Android and iOS applications.</h1>
+									<p></p>
 									
 									<Link href="#">
 										<a className="btn btn-primary">Get Started</a>

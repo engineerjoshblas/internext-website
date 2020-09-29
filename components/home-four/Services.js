@@ -8,9 +8,9 @@ class Services extends Component {
             <section className="repair-services-area ptb-80 bg-f7fafd">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Our Featured Services that We Provide</h2>
+                        <h2>Our Focus on Your App</h2>
                         <div className="bar"></div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        
                     </div>
                     
                     <div className="row">
@@ -20,12 +20,12 @@ class Services extends Component {
                                     <i className="flaticon-monitor"></i>
                                 </div>
 
-                                <h3>Laptop Repair</h3>
-                                <p>Lorem ipsum eiusmod dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>User Experience</h3>
+                                <p>Attention to detail is enhanced with our dynamic data-driven elements. Clean and concise.</p>
                                 
-                                <Link href="#">
+                                {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
 
@@ -35,12 +35,12 @@ class Services extends Component {
                                     <i className="flaticon-idea"></i>
                                 </div>
 
-                                <h3>Computer Repair</h3>
-                                <p>Lorem ipsum eiusmod dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Customizable</h3>
+                                <p>Our framework allows a high-degree of customization with fast and efficient development.</p>
                                 
-                                <Link href="#">
+                                {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
 
@@ -50,12 +50,12 @@ class Services extends Component {
                                     <i className="flaticon-layout"></i>
                                 </div>
 
-                                <h3>Apple Products Repair</h3>
-                                <p>Lorem ipsum eiusmod dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Common Code Base</h3>
+                                <p>Sourcecode is common between Web, Android, and iOS applications. All are delivered in unison.</p>
                                 
-                                <Link href="#">
+                                {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
 
@@ -65,12 +65,12 @@ class Services extends Component {
                                     <i className="flaticon-update-arrows"></i>
                                 </div>
 
-                                <h3>Software Update</h3>
-                                <p>Lorem ipsum eiusmod dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Software Support</h3>
+                                <p>We can provide long-term support and maintenance for your codebase and application updates.</p>
                                 
-                                <Link href="#">
+                                {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
 
@@ -80,12 +80,12 @@ class Services extends Component {
                                     <i className="flaticon-smartphone"></i>
                                 </div>
 
-                                <h3>Smartphone Repair</h3>
-                                <p>Lorem ipsum eiusmod dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Accessible</h3>
+                                <p>Multi platform development practicing accessibility with attention to detail. All platforms in sync and ready for use.</p>
                                 
-                                <Link href="#">
+                                {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
 
@@ -95,12 +95,12 @@ class Services extends Component {
                                     <i className="flaticon-hard-disk"></i>
                                 </div>
 
-                                <h3>Data Backup & Recovery</h3>
-                                <p>Lorem ipsum eiusmod dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Backup & Documentation</h3>
+                                <p>All applications and their data are backed up on the cloud and come thoroughly documented.</p>
                                 
-                                <Link href="#">
+                                {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
                     </div>

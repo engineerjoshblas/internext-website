@@ -10,17 +10,17 @@ class About extends Component {
 						<div className="col-lg-2" />
                         <div className="col-lg-8">
                             <div className="repair-about-content">
-                                <span className="sub-title">About Internext</span>
-                                <h2>Responsive websites for small and large scale projects.</h2>
-                                <p>Using SuperApps custom framework we are able to fully accommodate our customers by providing a fresh and customized application.</p>
+                                <span className="sub-title">About Internext Solutions</span>
+                                <h2>Responsive Web Design and Freelance services.</h2>
+                                <p>At Internext Solutions we provide charming web designs and a number of freelance services.</p>
 
                                 <ul>
-                                    <li><span><Icon.Check /> Responsive Interface</span></li>
-                                    <li><span><Icon.Check /> Customizable Content</span></li>
-                                    <li><span><Icon.Check /> User Experience Design</span></li>
-                                    <li><span><Icon.Check /> Clean & Documented Code</span></li>
-                                    <li><span><Icon.Check /> Reliable Communication</span></li>
-                                    <li><span><Icon.Check /> Long Term Support</span></li>
+                                    <li><span><Icon.Check /> Mobile app development</span></li>
+                                    <li><span><Icon.Check /> Ecommerce</span></li>
+                                    <li><span><Icon.Check /> Logo creations</span></li>
+                                    <li><span><Icon.Check /> Article Writing </span></li>
+                                    <li><span><Icon.Check /> Resume builder</span></li>
+                                    <li><span><Icon.Check /> Photography</span></li>
                                 </ul>
                             </div>
                         </div>

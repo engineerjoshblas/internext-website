@@ -17,37 +17,33 @@ export default class Footer extends React.Component {
                                         </a>
                                     </Link>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
+                                <p>Internext Solutions.</p>
+								<p>Reliable, scalable, and professional web development.</p>
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-6">
                             <div className="single-footer-widget pl-5">
-                                <h3>Company</h3>
+                                <h3>Internext</h3>
                                 <ul className="list">
+                                    <li>
+                                        <Link href="/index">
+                                            <a>Home</a>
+                                        </Link>
+                                    </li>
                                     <li>
                                         <Link href="/about">
                                             <a>About Us</a>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/services">
-                                            <a>Services</a>
+                                        <Link href="/consultation">
+                                            <a>Request Consultation</a>
                                         </Link>
                                     </li>
-                                    <li>
-                                        <Link href="/features">
-                                            <a>Features</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/pricing">
-                                            <a>Our Pricing</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/blog">
-                                            <a>Latest News</a>
+									<li>
+                                        <Link href="/contact">
+                                            <a>Contact Us</a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -63,6 +59,11 @@ export default class Footer extends React.Component {
                                             <a>FAQ's</a>
                                         </Link>
                                     </li>
+									<li>
+                                        <Link href="/acessability">
+                                            <a>Acessability Statement</a>
+                                        </Link>
+                                    </li>
                                     <li>
                                         <Link href="#">
                                             <a>Privacy Policy</a>
@@ -71,16 +72,6 @@ export default class Footer extends React.Component {
                                     <li>
                                         <Link href="#">
                                             <a>Terms & Condition</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="#">
-                                            <a>Community</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/contact">
-                                            <a>Contact Us</a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -94,15 +85,15 @@ export default class Footer extends React.Component {
                                 <ul className="footer-contact-info">
                                     <li> 
                                         <Icon.MapPin />
-                                        27 Division St, New York, <br /> NY 10002, USA
+                                        PO Box 549 <br /> Durham NC, 27702, USA
                                     </li>
                                     <li>
                                         <Icon.Mail />
-                                        Email: <Link href="#"><a>startp@gmail.com</a></Link>
+                                        Email: <Link href="#"><a>info@internext-solutions.com</a></Link>
                                     </li>
                                     <li> 
                                         <Icon.PhoneCall />
-                                        Phone: <Link href="#"><a>+ (321) 984 754</a></Link>
+                                        Phone: <Link href="#"><a>+ (037) 984 754</a></Link>
                                     </li>
                                 </ul>
                                 <ul className="social-links">
@@ -134,7 +125,7 @@ export default class Footer extends React.Component {
 
                         <div className="col-lg-12 col-md-12">
                             <div className="copyright-area">
-                                <p>Copyright @2020 StartP. All rights reserved</p>
+                                <p>Copyright @2020 InternextSolutions. All rights reserved</p>
                             </div>
                         </div>
                     </div>

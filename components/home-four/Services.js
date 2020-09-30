@@ -8,7 +8,7 @@ class Services extends Component {
             <section className="repair-services-area ptb-80 bg-f7fafd">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Our Focus on Your App</h2>
+                        <h2>Our Focus on Your Website</h2>
                         <div className="bar"></div>
                         
                     </div>
@@ -50,8 +50,8 @@ class Services extends Component {
                                     <i className="flaticon-layout"></i>
                                 </div>
 
-                                <h3>Common Code Base</h3>
-                                <p>Sourcecode is common between Web, Android, and iOS applications. All are delivered in unison.</p>
+                                <h3>Multi-Device Support</h3>
+                                <p>Sourcecode is common for desktop and mobile platforms, seamlessly integrated.</p>
                                 
                                 {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
@@ -66,7 +66,7 @@ class Services extends Component {
                                 </div>
 
                                 <h3>Software Support</h3>
-                                <p>We can provide long-term support and maintenance for your codebase and application updates.</p>
+                                <p>We can provide long-term support and maintenance for your site and work with you on future updates.</p>
                                 
                                 {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>
@@ -81,7 +81,7 @@ class Services extends Component {
                                 </div>
 
                                 <h3>Accessible</h3>
-                                <p>Multi platform development practicing accessibility with attention to detail. All platforms in sync and ready for use.</p>
+                                <p>Developing with best practices for accessibility. Attention to detail is not only important, but paramount.</p>
                                 
                                 {/* <Link href="#">
                                     <a><Icon.ArrowRight /></a>

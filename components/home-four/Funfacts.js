@@ -37,7 +37,7 @@ class Funfacts extends React.Component {
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
     
-                    <div className="row">
+                    {/* <div className="row">
                         <div className="col-lg-3 col-md-3 col-6">
                             <div className="funfact">
                                 <h3>
@@ -73,7 +73,7 @@ class Funfacts extends React.Component {
                                 <p>Contributors</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
     
                     <div className="contact-cta-box">
                         <h3>Have any question about us?</h3>

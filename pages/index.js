@@ -9,7 +9,7 @@ import Partner from '../components/home-four/Partner';
 import About from '../components/home-four/About';
 import Services from '../components/home-four/Services';
 import Cta from '../components/home-four/Cta';
-import Funfacts from '../components/home-one/Funfacts';
+//import Funfacts from '../components/home-one/Funfacts';
 import Team from '../components/home-four/Team';
 import Feedback from '../components/home-four/Feedback';
 import WhyChoose from '../components/home-four/WhyChoose';
@@ -32,11 +32,11 @@ class Index extends React.Component {
                 <About />
                 <Services />
                 <Cta />
-                <Funfacts />
+                {/* <Funfacts /> */}
                 <Team />
-                <Feedback />
+                {/* <Feedback /> */}
                 <WhyChoose />
-                <Blog />
+                {/* <Blog /> */}
     
                 <Footer />
                 <GoTop scrollStepInPx="50" delayInMs="16.66" />

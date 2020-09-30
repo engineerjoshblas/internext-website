@@ -8,9 +8,9 @@ class WhyChoose extends Component {
             <section className="repair-why-choose-us ptb-80 pb-0">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Why We Are Best From Others</h2>
+                        <h2>Why We Are the Best Choice</h2>
                         <div className="bar"></div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Internext Solutions is the best agency to choose for the design and managment of your online business. We are commited to working with you every step of the way and making your sites vision a reality.  </p>
                     </div>
                     
                     <div className="row">
@@ -19,8 +19,8 @@ class WhyChoose extends Component {
                                 <div className="icon">
                                     <i className="flaticon-handshake"></i>
                                 </div>
-                                <h3>Quick Repair Process</h3>
-                                <p>Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Simple and Understanding</h3>
+                                <p>Getting your business online can be a difficult process if it is not something you have done before. We are here to work with you, and inform you every step of the way.</p>
 
                                 <Link href="#">
                                     <a>
@@ -39,8 +39,8 @@ class WhyChoose extends Component {
                                 <div className="icon">
                                     <i className="flaticon-repair"></i>
                                 </div>
-                                <h3>Free Diagnostics</h3>
-                                <p>Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Reliable Delivery</h3>
+                                <p>At Internext Solutions we take pride in the prompt delivery of our service and reliable schedule of our work. Getting your site online, functioning, and working for you is our first priority.  </p>
 
                                 <Link href="#">
                                     <a>
@@ -59,8 +59,8 @@ class WhyChoose extends Component {
                                 <div className="icon">
                                     <i className="flaticon-delivery-truck"></i>
                                 </div>
-                                <h3>Fast Delivery</h3>
-                                <p>Lorem ipsum dolor sit amet elit, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                <h3>Dependable Communication</h3>
+                                <p>Communication with our clients is paramount. Always available and ready to work with you, it is our committment to communicate promptly. We are always on time. </p>
                                 
                                 <Link href="#">
                                     <a>

@@ -62,7 +62,7 @@ $bg-color2: #f9f6f6;
 $bg-color3: #f9fafb;
 $bg-color4: #0f054b;
 $hosting-main-color: #032b8d;
-$gradient-color: linear-gradient(135deg, #112EB0 0%, #5874EE 100%);$gradient-color2: linear-gradient(to right bottom, #1fa2ff, #00c0ff, #00d9f2, #53eedd, #a6ffcb);
+$gradient-color: linear-gradient(135deg, #112EB0 0%, #5874EE 100%);$gradient-color2: linear-gradient(to right bottom, #112EB0, #2174D4, #6dabde, #68bbe8, #aadaf2);
 $transition: .5s;
 $font-size: 14px;
 
@@ -322,7 +322,7 @@ label {
     .bar {
         height: 5px;
         width: 90px;
-        background: #cdf1d8;
+        background: #caf0fa;
         margin: 20px auto;
         position: relative;
         border-radius: 30px;
@@ -565,7 +565,7 @@ Navbar CSS
             .btn {
                 &.btn-light {
                     background: transparent;
-                    border: 2px dashed #cdf1d8;
+                    border: 2px dashed #caf0fa;
                     padding: 12px 33px;
                     margin-right: 10px;
 
@@ -1094,7 +1094,7 @@ Boxes CSS
     }
 }
 .single-box {
-    border: 1px dashed #cdf1d8;
+    border: 1px dashed #caf0fa;
     padding: 30px 20px;
     position: relative;
     z-index: 1;
@@ -1111,7 +1111,7 @@ Boxes CSS
         width: 55px;
         height: 55px;
         line-height: 55px;
-        background: #cdf1d8;
+        background: #caf0fa;
         border-radius: 50%;
         color: $light-green-color;
         -webkit-transition: $transition;
@@ -1657,7 +1657,7 @@ Services CSS
         width: 55px;
         height: 55px;
         line-height: 55px;
-        background: #cdf1d8;
+        background: #caf0fa;
         border-radius: 50%;
         color: $light-green-color;
         -webkit-transition: $transition;
@@ -1837,7 +1837,7 @@ Features CSS
         width: 55px;
         height: 55px;
         line-height: 55px;
-        background: #cdf1d8;
+        background: #caf0fa;
         border-radius: 50%;
         color: $light-green-color;
         left: 20px;
@@ -1902,7 +1902,7 @@ Features CSS
         width: 55px;
         height: 55px;
         line-height: 55px;
-        background: #cdf1d8;
+        background: #caf0fa;
         display: inline-block;
         border-radius: 50%;
         color: $light-green-color;
@@ -2103,7 +2103,7 @@ Team CSS
             right: 35px;
         };
         img {
-            border: 3px solid #cdf1d8;
+            border: 3px solid #caf0fa;
             width: auto !important;
             border-radius: 50%;
             display: inline-block !important;
@@ -5447,7 +5447,7 @@ Repair Services CSS
         height: 100%;
         background: $white-color;
         z-index: -1;
-        border: 1px dashed #cdf1d8;
+        border: 1px dashed #caf0fa;
     }
     &::after {
         position: absolute;
@@ -5463,7 +5463,7 @@ Repair Services CSS
         z-index: -1;
         opacity: 0;
         visibility: hidden;
-        border: 1px dashed #cdf1d8;
+        border: 1px dashed #caf0fa;
     }
     h3 {
         font-size: 19px;
@@ -5481,7 +5481,7 @@ Repair Services CSS
         width: 85px;
         height: 85px;
         line-height: 85px;
-        border: 1px solid #e3f7e9;
+        border: 1px solid #e3f1f7;
         border-radius: 50%;
         -webkit-transition: $transition;
         transition: $transition;
@@ -5626,7 +5626,7 @@ Repair Why Choose Us CSS
 .single-repair-box {
     text-align: center;
     background-color: $white-color;
-    border: 1px dashed #cdf1d8;
+    border: 1px dashed #caf0fa;
     padding: 30px;
     position: relative;
     z-index: 1;
@@ -5968,7 +5968,7 @@ Iot Services CSS
     padding: 40px 30px;
     text-align: center;
     background-color: $white-color;
-    border: 1px dashed #cdf1d8;
+    border: 1px dashed #caf0fa;
 
     &::after {
         position: absolute;
@@ -6001,7 +6001,7 @@ Iot Services CSS
         width: 85px;
         height: 85px;
         line-height: 85px;
-        border: 1px solid #e3f7e9;
+        border: 1px solid #e3f1f7;
         border-radius: 50%;
         -webkit-transition: $transition;
         transition: $transition;
@@ -6148,7 +6148,7 @@ IoT Why Choose Us CSS
 .single-iot-box {
     text-align: center;
     background-color: $white-color;
-    border: 1px dashed #cdf1d8;
+    border: 1px dashed #caf0fa;
     padding: 30px;
     position: relative;
     z-index: 1;
@@ -6709,7 +6709,7 @@ ML About CSS
     .bar {
         height: 5px;
         width: 90px;
-        background: #cdf1d8;
+        background: #caf0fa;
         margin: 20px 0;
         position: relative;
         border-radius: 30px;
@@ -7614,7 +7614,7 @@ Agency About CSS
     .bar {
         height: 5px;
         width: 90px;
-        background: #cdf1d8;
+        background: #caf0fa;
         margin: 20px 0;
         position: relative;
         border-radius: 30px;

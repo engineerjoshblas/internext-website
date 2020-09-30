@@ -11,7 +11,8 @@ const MainBanner = () => {
 						<div className="row h-100 justify-content-center align-items-center">
 							<div className="col-lg-5">
 								<div className="hero-content">
-									<h1>SuperApps. Data-driven, scalable Android and iOS applications.</h1>
+									<h1>Internext Solutions.</h1>
+									<h1>Reliable, scalable, and professional web development.</h1>
 									<p></p>
 									
 									<Link href="#">
